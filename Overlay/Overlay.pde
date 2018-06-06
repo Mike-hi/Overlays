@@ -15,7 +15,7 @@ int c;
     background(0);
     image(img, 0, 0);
     showxy();
-    
+    stroke(255);
     border();
   }
   
